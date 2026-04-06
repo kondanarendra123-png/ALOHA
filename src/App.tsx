@@ -364,7 +364,7 @@ export default function App() {
               <div className="relative inline-block mb-8">
                 <div className="absolute inset-0 bg-gradient-to-tr from-yellow-400 to-orange-500 rounded-full blur-lg opacity-30 animate-pulse" />
                 <img 
-                  src="https://github.com/kondanarendra123-png/ALOHA/commit/9c12aa8acd8f0ed3f3c3b969d6925d68322e7d42#r181615537" 
+                  src="/hod.png" 
                   alt="Dr. YV Balaramakrishna" 
                   className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover border-4 border-white/20 relative z-10 mx-auto shadow-2xl"
                   referrerPolicy="no-referrer"
